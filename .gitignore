@@ -1,0 +1,84 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Compiled output
+FundamentosSpringFront_3/dist
+FundamentosSpringFront_3/tmp
+FundamentosSpringFront_3/out-tsc
+FundamentosSpringFront_3/bazel-out
+
+# Node
+FundamentosSpringFront_3/node_modules
+FundamentosSpringFront_3/npm-debug.log
+
+FundamentosSpringFront_3/yarn-error.log
+
+# IDEs and editors
+
+FundamentosSpringFront_3/.idea/
+
+FundamentosSpringFront_3/.project
+
+FundamentosSpringFront_3/.classpath
+
+FundamentosSpringFront_3/.c9/
+
+FundamentosSpringFront_3/*.launch
+FundamentosSpringFront_3/.settings/
+FundamentosSpringFront_3/*.sublime-workspace
+
+# Visual Studio Code
+FundamentosSpringFront_3/.vscode/*
+FundamentosSpringFront_3/!.vscode/settings.json
+FundamentosSpringFront_3/!.vscode/tasks.json
+FundamentosSpringFront_3/!.vscode/launch.json
+FundamentosSpringFront_3/!.vscode/extensions.json
+FundamentosSpringFront_3/.history/*
+
+# Miscellaneous
+FundamentosSpringFront_3/.angular/cache
+FundamentosSpringFront_3/.sass-cache/
+FundamentosSpringFront_3/connect.lock
+FundamentosSpringFront_3/coverage
+FundamentosSpringFront_3/libpeerconnection.log
+FundamentosSpringFront_3/testem.log
+FundamentosSpringFront_3/typings
+
+# System files
+FundamentosSpringFront_3/.DS_Store
+FundamentosSpringFront_3/Thumbs.db
+
+FundamentosSpring_3/HELP.md
+FundamentosSpring_3/target/
+FundamentosSpring_3/!.mvn/wrapper/maven-wrapper.jar
+FundamentosSpring_3/!**/src/main/**/target/
+FundamentosSpring_3/!**/src/test/**/target/
+
+### STS ###
+FundamentosSpring_3/.apt_generated
+FundamentosSpring_3/.classpath
+FundamentosSpring_3/.factorypath
+FundamentosSpring_3/.project
+FundamentosSpring_3/.settings
+FundamentosSpring_3/.springBeans
+FundamentosSpring_3/.sts4-cache
+
+### IntelliJ IDEA ###
+FundamentosSpring_3/.idea
+FundamentosSpring_3/*.iws
+FundamentosSpring_3/*.iml
+FundamentosSpring_3/*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+
